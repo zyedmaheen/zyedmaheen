@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   1. Project One
   2. Project Two
   3. Project Three
-- 🌱 I’m currently learning something
+- 🌱 I’m currently learning something from
+[](https://www.youtube.com/channel/UCbp3RDwKGt3PatrF0lzO_nw)
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help fixing my overthinking habit
 - 💬 Ask me about anything
