@@ -17,14 +17,12 @@
 
 
 #### Other Certificates or Experience
-| Period |Course| Institute |CGPA/Percentage|
+| Period |Skill| Institute |Certification|
 |---|---|---|---|
-|20xx-20xx| MA. Economics | University Name | 6.8 |
-|20xx-20xx| Btech. Electrical and Electronics Engineering | University Name | 6.3|
-|20xx-20xx| Computer Science- Higher Secondary | Exam Board| 85% |
-
-
-
+|20xx-20xx| Deep Learning | Udacity |  Nano Degree |
+|20xx-20xx| Industrial Automation| IPCS | TuV Rheinland |
+|20xx-20xx| MEP and HVAC Engineer | Torque MEP | STED Council |
+<br/>
 
 
 **zyedmaheen/zyedmaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +30,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some projects
+  1. Project One
+  2. Project Two
+  3. Project Three
 - 🌱 I’m currently learning something
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help fixing my overthinking habit
