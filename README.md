@@ -1,4 +1,16 @@
-### Hi there 👋
+
+
+
+### Hello, I am John Doe
+#### Machine Learning Engineer | Data Scientist
+
+I also have relevant experience in **Fullstack Web and Mobile Development**
+
+| Education |||
+|---|---|---|
+|2020-2022| MA. Economics | IGNOU |
+|2012-2016| Btech. Electrical and Electronics Engineering | Mahatma Gandhi University | 
+
 
 <!--
 **zyedmaheen/zyedmaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
