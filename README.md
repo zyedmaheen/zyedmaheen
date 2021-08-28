@@ -1,3 +1,7 @@
+## Self Intro
+#### Zyeborg
+---
+
 |  ![](https://github.com/zyedmaheen/zyedmaheen/blob/main/imgtwo.jpeg) | Hello, I am Zyed Maheen <br/><br/>Machine Learning Engineer \| Data Scientist <br/> I also have relevant experience in Fullstack Web and Mobile Development <br/><br/>I love Python and Javascript. <br/>And Flutter...and React...err<br/> I like Rust and GO... <br/> I like Graphic Designing and Canvas Painting <br/> I do Automation | 
 |---|---|
 
@@ -24,6 +28,15 @@
 |20xx-20xx| MEP and HVAC Engineer | Torque MEP | STED Council |
 <br/>
 
+```javascript
+var i += 1;
+console.log('Hello World');
+
+```
+```python
+def func(num1, num2):
+  return num1+num2
+```
 
 **zyedmaheen/zyedmaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +51,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help fixing my overthinking habit
 - 💬 Ask me about anything
 - 📫 How to reach me: zyeborg91@gmail.com
+
 
