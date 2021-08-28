@@ -1,17 +1,18 @@
+|  ![](https://github.com/zyedmaheen/zyedmaheen/blob/main/imgtwo.jpeg) | Hello, I am John Doe <br/><br/>Machine Learning Engineer \| Data Scientist <br/> I also have relevant experience in Fullstack Web and Mobile Development | 
+|---|---|
 
 
 
-### Hello, I am John Doe
-#### Machine Learning Engineer | Data Scientist
+#### 
 
-I also have relevant experience in **Fullstack Web and Mobile Development**
+
 
 #### Work Experience
-| Period |Course| Institute |CGPA/Percentage|
-|---|---|---|---|
-|20xx-20xx| MA. Economics | University Name | 6.8 |
-|20xx-20xx| Btech. Electrical and Electronics Engineering | University Name | 6.3|
-|20xx-20xx| Computer Science- Higher Secondary | Exam Board| 85% |
+| Job Title |Company| Period |
+|---|---|---|
+| Data Scientist/Machine Learning Engg| ABC Company| May, 20xx - Present| 
+|Python/Django Developer| CBC Company | April, 20xx - April, 20xx | 
+|Fullstack Developer| NBC Company | May, 20xx - March, 20xx|
 
 #### Education
 | Period |Course| Institute |CGPA/Percentage|
