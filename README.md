@@ -1,9 +1,7 @@
-|  ![](https://github.com/zyedmaheen/zyedmaheen/blob/main/imgtwo.jpeg) | Hello, I am John Doe <br/><br/>Machine Learning Engineer \| Data Scientist <br/> I also have relevant experience in Fullstack Web and Mobile Development | 
+|  ![](https://github.com/zyedmaheen/zyedmaheen/blob/main/imgtwo.jpeg) | Hello, I am John Doe <br/><br/>Machine Learning Engineer \| Data Scientist <br/> I also have relevant experience in Fullstack Web and Mobile Development <br/><br/>I love Python and Javascript. <br/>And Flutter...and React...err<br/> I like Rust and GO... <br/> I like Graphic Designing and Canvas Painting <br/> I love Automation | 
 |---|---|
 
 
-
-#### 
 
 
 
